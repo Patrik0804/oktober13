@@ -13,6 +13,6 @@
 2. sorszámozott2
 - van no sorszma
 - szinten no sorszam
-```text
+```python
 print("asd")
 ```
